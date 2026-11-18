@@ -30,11 +30,11 @@ OWASP Top 10 · MITRE ATT&CK · Vulnerability Assessment · Security Testing
 
 | Project | Description |
 |---|---|
-| [AutoTrace-Windows](https://github.com/Simrankaur1000/AutoTrace-Windows) | Windows digital-forensics and investigation utility. |
-| [Network Scanner Toolkit](https://github.com/Simrankaur1000/simple-network-scanner-toolkit) | Network scanning and reconnaissance toolkit. |
-| [Nmapthy](https://github.com/Simrankaur1000/Nmapthy) | Nmap-focused project. |
-| [CTF Writeups](https://github.com/Simrankaur1000/ctf-writeups) | Notes and writeups from hands-on security challenges. |
-| [ShadowMap](https://portfolio-k3wf.vercel.app) | Final-year project: Nmap-based reconnaissance and CVE dashboard. |
+| [AutoTrace-Windows](https://github.com/Simrankaur1000/AutoTrace-Windows) | Windows artefact collection utility for browser history and failed logon events. |
+| [Network Reconnaissance Toolkit](https://github.com/Simrankaur1000/simple-network-scanner-toolkit) | CLI wrapper for common network discovery and enumeration tools. |
+| [Password Strength Checker](https://github.com/Simrankaur1000/password-checker-web-app) | Flask application for password-strength checks and HIBP breach lookups. |
+| [CTF Writeups](https://github.com/Simrankaur1000/ctf-writeups) | Notes from authorized security challenges and training labs. |
+| [Portfolio](https://portfolio-k3wf.vercel.app) | Cybersecurity projects and technical profile. |
 
 ## Certifications & Achievements
 
