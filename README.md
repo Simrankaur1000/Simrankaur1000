@@ -26,15 +26,27 @@ I work on identifying and understanding security weaknesses through practical, a
 
 OWASP Top 10 · MITRE ATT&CK · Vulnerability Assessment · Security Testing
 
+## Project Collections
+
+My projects are organised into dedicated repositories by area:
+
+| Collection | Contents |
+|---|---|
+| [Security Projects](https://github.com/Simrankaur1000/Security-Projects) | Password Checker Web App and application-security projects. |
+| [Network Security](https://github.com/Simrankaur1000/Network-Security) | Network reconnaissance and security tooling. |
+| [Digital Forensics & DFIR](https://github.com/Simrankaur1000/Digital-Forensics-DFIR-) | Windows artefact collection and digital-forensics tools. |
+| [Development Projects](https://github.com/Simrankaur1000/Development-Projects) | Software development projects and experiments. |
+| [CTF Writeups](https://github.com/Simrankaur1000/CTF-Writeups) | Notes from authorized security challenges and training labs. |
+
 ## Featured Projects
 
 | Project | Description |
 |---|---|
-| [AutoTrace-Windows](https://github.com/Simrankaur1000/AutoTrace-Windows) | Windows artefact collection utility for browser history and failed logon events. |
-| [Network Reconnaissance Toolkit](https://github.com/Simrankaur1000/simple-network-scanner-toolkit) | CLI wrapper for common network discovery and enumeration tools. |
-| [Password Strength Checker](https://github.com/Simrankaur1000/password-checker-web-app) | Flask application for password-strength checks and HIBP breach lookups. |
-| [CTF Writeups](https://github.com/Simrankaur1000/ctf-writeups) | Notes from authorized security challenges and training labs. |
-| [Portfolio](https://portfolio-k3wf.vercel.app) | Cybersecurity projects and technical profile. |
+| [AutoTrace-Windows](https://github.com/Simrankaur1000/Digital-Forensics-DFIR-/tree/main/AutoTrace-Windows) | Windows artefact collection utility for browser history and failed logon events. |
+| [Network Reconnaissance Toolkit](https://github.com/Simrankaur1000/Network-Security/tree/main/simple-network-scanner-toolkit) | CLI wrapper for common network discovery and enumeration tools. |
+| [Password Strength Checker](https://github.com/Simrankaur1000/Security-Projects/tree/main/password-checker-web-app) | Flask application for password-strength checks and HIBP breach lookups. |
+| [Development Project](https://github.com/Simrankaur1000/Development-Projects/tree/main/anti-gravity) | Software development project maintained in the development collection. |
+| [CTF Writeups](https://github.com/Simrankaur1000/CTF-Writeups) | Writeups documenting challenge investigation, technical reasoning, and lessons learned. |
 
 ## Certifications & Achievements
 
