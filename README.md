@@ -9,7 +9,6 @@
 *Web Application Security • Network Reconnaissance • Digital Forensics • Red Teaming*
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-00FF9C?style=for-the-badge&logo=vercel&logoColor=0D1117)](https://portfolio-k3wf.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![GitHub](https://img.shields.io/badge/GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Simrankaur1000)
 
 </div>
