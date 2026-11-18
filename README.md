@@ -42,7 +42,7 @@ OWASP Top 10 · MITRE ATT&CK · Vulnerability Assessment · Security Testing
 - Certified Red Team Operations Management (CRTOM)
 - Certified LLM Security Professional (CLLMSP)
 - Microsoft Azure Fundamentals (AZ-900)
-- BrainCon 2025 CTF — Rank 128 of 753 teams
+- **BrainCon 2025 — 2nd Place, Team Syntax Terror**
 
 ## Education
 
