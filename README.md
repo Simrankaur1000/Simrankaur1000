@@ -61,8 +61,7 @@ Organised by security domain and development area:
 | [🌐 Network-Security](https://github.com/Simrankaur1000/Network-Security) | Network reconnaissance and security tooling |
 | [🕵️ Digital-Forensics-DFIR-](https://github.com/Simrankaur1000/Digital-Forensics-DFIR-) | Windows artefact collection and digital forensics |
 | [💻 Development-Projects](https://github.com/Simrankaur1000/Development-Projects) | Software development projects and experiments |
-| [🚩 CTF-Writeups](https://github.com/Simrankaur1000/CTF-Writeups) | Authorized CTF and security-lab writeups |
-| [🏴 CyberZerk-CTF-2026](https://github.com/Simrankaur1000/CyberZerk-CTF-2026) | CyberZerk CTF 2026 challenge notes, solutions and scripts |
+| [🚩 CTF-Writeups](https://github.com/Simrankaur1000/CTF-Writeups) | Authorized CTF and security-lab writeups, including [CyberZerk CTF 2026](https://github.com/Simrankaur1000/CyberZerk-CTF-2026) |
 
 ### Featured Work
 
